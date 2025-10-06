@@ -1,4 +1,4 @@
-import { Routes, Route, useLocation } from 'react-router-dom'
+import { Routes, Route } from 'react-router-dom'
 import Header from './components/Header.jsx'
 import Footer from './components/Footer.jsx'
 import Home from './pages/Home.jsx'
@@ -7,7 +7,6 @@ import GridBuilder from './pages/GridBuilder.jsx'
 import FormBuilder from './pages/FormBuilder.jsx'
 
 export default function App() {
-  const { pathname } = useLocation()
   return (
     <div className="app">
       <Header />
