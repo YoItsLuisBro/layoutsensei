@@ -1,0 +1,13 @@
+<!-- LayoutSensei — Conic Favicon (Updated Colors) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <foreignObject x="8" y="8" width="240" height="240" requiredExtensions="http://www.w3.org/1999/xhtml">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="
+           width:100%;height:100%;
+           border-radius:56px;
+           background:#FFCC00; /* fallback */
+           background: conic-gradient(from 0deg, #FFCC00, #B13BFF, #471396, #FFCC00);
+         ">
+    </div>
+  </foreignObject>
+  <rect x="8.5" y="8.5" width="239" height="239" rx="55.5" fill="none" stroke="#090040" stroke-opacity=".7" stroke-width="2"></rect>
+</svg>
