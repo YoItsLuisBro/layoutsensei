@@ -5,7 +5,7 @@ export default function Header(){
     <header className="appbar">
       <div className="container appbar-inner">
         <Link to="/" className="brand" aria-label="LayoutSensei Home">
-          <img src="/src/assets/logo.svg" width="34" height="34" alt="LayoutSensei logo" style={{borderRadius:9}}/>
+          <img src="/logo.svg" width="34" height="34" alt="LayoutSensei logo" style={{borderRadius:9}}/>
           <h1>LayoutSensei</h1>
         </Link>
         <nav className="nav" aria-label="Primary">
