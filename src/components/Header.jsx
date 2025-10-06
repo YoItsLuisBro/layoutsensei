@@ -1,7 +1,6 @@
-import { NavLink, Link, useLocation } from 'react-router-dom'
+import { NavLink, Link } from 'react-router-dom'
 
 export default function Header(){
-  const { pathname } = useLocation()
   return (
     <header className="appbar">
       <div className="container appbar-inner">
